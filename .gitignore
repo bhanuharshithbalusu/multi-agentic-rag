@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+.env
+*.egg-info/
+
+# Vector store data (too large for GitHub)
+backend/vector_store_data/
+
+# Node
+node_modules/
+frontend/build/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+*.log
+*.tmp
