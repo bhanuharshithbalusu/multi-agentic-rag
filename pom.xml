@@ -1,0 +1,14 @@
+<Project xmlns="http://maven.apache.org/POM/4.0.0">
+  <ModelVersion>4.0.0</ModelVersion>
+  <GroupId>com.debug</GroupId>
+  <ArtifactId>debug-test</ArtifactId>
+  <Version>1.0-SHAPSHOT</Version>
+  <Dependencies>
+    <Dependency>
+      <GroupId>junit</GroupId>
+      <ArtifactId>junit</ArtifactId>
+      <Version>4.13</Version>
+      <Scope>test</Scope>
+    </Dependency>
+  </Dependencies>
+</Project>
